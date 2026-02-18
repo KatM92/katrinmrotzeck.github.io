@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: json_headers.jpg
+img: json_headers.png
 alt: JSON Headers Technical Screenshot
 project-date: February 2026
 client: Technical Assessment (Cloudflare)
