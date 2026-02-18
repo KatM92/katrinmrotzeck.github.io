@@ -2,12 +2,30 @@
 layout: default
 ---
 <style>
-  /* Changes the Header background */
-  header {
-    background: #D96D26 !important;
+  /* Main Header & Section Backgrounds */
+  header, section.success, .footer-above {
+    background-color: #D96D26 !important;
   }
 
-  /* Changes the 'About' section and other success-styled sections */
-  section.success {
-    background: #D96D26 !important;
+  /* Buttons & Borders */
+  .btn-primary, .btn-outline {
+    background-color: #D96D26 !important;
+    border-color: #D96D26 !important;
   }
+
+  /* Portfolio Hover Overlay (using your RGB for transparency) */
+  #portfolio .portfolio-item .portfolio-link .caption {
+    background: rgba(217, 109, 38, 0.9) !important;
+  }
+
+  /* Link Text Colors */
+  a, a:hover, a:focus, a:active {
+    color: #D96D26;
+  }
+
+  /* Navigation Bar active/hover states */
+  .navbar-default .navbar-nav > .active > a, 
+  .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #D96D26 !important;
+  }
+</style>
