@@ -4,7 +4,7 @@ modal-id: 13
 order: 7
 date: 2025-09-18
 title: "Ops: Program Workflow Design"
-img: accelerator_workflow.png
+img: accelerator.png
 alt: "Low-code Workflow Engineering"
 project-date: "September 2025"
 client: "Incubation Program Case Study"
