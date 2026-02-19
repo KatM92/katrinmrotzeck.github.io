@@ -3,8 +3,7 @@ order: 2
 layout: default
 modal-id: 2
 date: 2014-07-17
-title: "Secure Tunnel Implementation"
-Category: "Technical Operations"
+title: Secure Tunnel Implementation
 img: json_headers.png
 alt: JSON Headers Technical Screenshot
 project-date: February 2026
