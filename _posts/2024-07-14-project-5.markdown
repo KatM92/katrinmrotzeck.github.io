@@ -1,11 +1,15 @@
 ---
 layout: default
 modal-id: 5
-date: 2024-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2025-03-11
+img: eda_signals.png
+alt: Electrodermal Activity Signal Analysis
+project-date: March 2024 - March 2025
+client: Scientific Publication (MDPI Sensors)
+category: Biomedical Data Science
+description: Co-authored a peer-reviewed study in <i>Sensors</i> focusing on physiological signal precision across the human body.<br><br>
+  • <b>Research Leadership:</b> Supervised complex signal collection protocols and large-scale data collection phases, ensuring high-fidelity results for subsequent analysis.<br>
+  • <b>Algorithm Engineering:</b> Created a complex algorithm to extract meaningful information from raw EDA signals, specifically targeting Skin Conductance Response (SCR) features.<br>
+  • <b>Feature Extraction:</b> Engineered the extraction of SCR height, amplitude, and prominence, transforming noisy physiological data into actionable scientific insights.<br><br>
+  <a href='https://www.mdpi.com/1424-8220/25/6/1762' target='_blank' class='btn btn-default'>View Full Publication</a>
 ---
