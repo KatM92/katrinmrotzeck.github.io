@@ -3,7 +3,7 @@ order: 3
 layout: default
 modal-id: 5
 date: 2025-03-11
-title: Published Research: EDA Analysis
+title: Published Research - EDA Analysis
 img: eda_signals.png
 alt: Electrodermal Activity Signal Analysis
 project-date: March 2024 - March 2025
