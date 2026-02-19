@@ -2,7 +2,7 @@
 order: 3
 layout: default
 modal-id: 3
-date: 2026-02-18
+date: 2025-01-01
 title: Uprack Project
 category: Circular Economy
 img: logo_uprack.png
