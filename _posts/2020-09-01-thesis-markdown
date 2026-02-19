@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 4
+order: 4
+date: 2020-09-01
+title: "Master’s Thesis: Adaptable ALS Alarm System"
+img: thesis.png
+alt: "Deterministic EMG Alarm System for ALS"
+project-date: "2020"
+client: "University of Lübeck / Institute for Signal Processing"
+category: "Engineering & Programming"
+description: "Master’s Thesis: <b>'Assistive Communication - Adaptable Alarm System for ALS Patients.'</b> Developed a high-reliability emergency trigger system based on intentional physiological signals.<br><br>
+  • <b>Algorithm Development:</b> Engineered a <b>deterministic binary algorithm</b> designed to detect specific EMG activation patterns, providing a high-precision 'switch' for patients with limited mobility.<br>
+  • <b>Real-Time Processing:</b> Built a signal processing pipeline in <b>C++ and Python</b> to analyze raw muscle activity and distinguish intentional triggers from involuntary tremors or background noise.<br>
+  • <b>Adaptable Thresholding:</b> Implemented a calibration framework that allowed the algorithm to adapt to the individual signal-to-noise ratio of each patient, ensuring consistent performance across different stages of ALS.<br>
+  • <b>Hardware Integration:</b> Validated the system using <b>biosignalsplux</b> sensors at the <b>Institute for Signal Processing (ISIP)</b>.<br><br>
+  <a href='https://www.isip.uni-luebeck.de/theses/completed-theses/master-theses' target='_blank' class='btn btn-default'>View Thesis Record (ISIP)</a>"
+---
