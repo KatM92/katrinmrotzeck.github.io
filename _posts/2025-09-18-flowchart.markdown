@@ -4,7 +4,7 @@ modal-id: 13
 order: 7
 date: 2026-02-12
 title: "Case Study: Workflow Automation"
-img: accelerator_workflow.png
+img: accelerator.png
 alt: "Strategic Incubation Funnel Design"
 project-date: "2024"
 client: "InnovUp Hub (Case Study)"
