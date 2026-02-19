@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 order: 4
-date: 2026-02-19
+date: 2021-09-01
 title: "Biomedical Signal Processing"
 img: game.png
 alt: "Biomedical Engineering Thesis"
