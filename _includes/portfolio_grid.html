@@ -17,6 +17,10 @@
             </div>
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          <div class="portfolio-caption"> 
+              <h4 style="margin-top: 15px; color: #333; font-weight: 700;">{{ post.title }}</h4>
+              <p class="text-muted" style="font-size: 14px;">{{ post.category }}</p>
+          </div>
         </a>
       </div>
       {% endfor %}
