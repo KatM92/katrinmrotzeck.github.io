@@ -1,11 +1,16 @@
 ---
 layout: default
-modal-id: 6
-date: 2024-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+modal-id: 9
+order: 3
+date: 2024-02-11
+title: "Research Supervision: fNIRS & Cognition"
+img: fnirs_setup.png
+alt: "fNIRS Signal Analysis Mentorship"
+project-date: "2024"
+client: "Academic Supervision / University Collaboration"
+category: "Leadership & Biosignals"
+description: "Acted as a supervising co-author for a research project led by students investigating hemodynamic responses during cognitive tasks.<br><br>
+  • <b>Protocol Mentorship:</b> Supervised the implementation of complex data collection protocols using wearable <b>fNIRS</b> and biosignalsplux sensors.<br>
+  • <b>Algorithm & Analysis Guidance:</b> Supported the development of the signal processing pipeline to filter motion artifacts and extract oxygenated (HbO) and deoxygenated (HbR) hemoglobin levels.<br>
+  • <b>System Optimization:</b> Guided the students in optimizing sensor placement to ensure data reliability and scientific validity for the final publication."
 ---
