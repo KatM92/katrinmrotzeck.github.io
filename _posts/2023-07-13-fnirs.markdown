@@ -4,7 +4,7 @@ modal-id: 9
 order: 3
 date: 2023-02-11
 title: "Research Supervision: fNIRS & Cognition"
-img: fnirs_setup.png
+img: fnirs.png
 alt: "fNIRS Signal Analysis Mentorship"
 project-date: "2023-2024"
 client: "Academic Supervision / University Collaboration"
