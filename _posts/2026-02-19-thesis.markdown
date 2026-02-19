@@ -1,4 +1,5 @@
 ---
+order: 4
 layout: default
 modal-id: 4
 date: 2026-02-19
@@ -10,3 +11,4 @@ client: Master of Biomedical Engineering Thesis
 category: Engineering R&D
 description: Developed Python/C++ algorithms for real-time biosignal feature extraction (ECG, EMG) for ALS patient communication tools.
 Executed user-centered data acquisition and experimental setups using wearable sensors.
+---
