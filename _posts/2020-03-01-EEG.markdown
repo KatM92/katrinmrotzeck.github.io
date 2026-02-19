@@ -4,7 +4,7 @@ modal-id: 12
 order: 5
 date: 2020-03-01
 title: "ERP Research: Single-Lead EEG"
-img: eeg.png
+img: fnirs.png
 alt: "Single-lead EEG ERP Protocol and Notebook"
 project-date: "Published 2020"
 client: "TH Lübeck / University of Lübeck"
