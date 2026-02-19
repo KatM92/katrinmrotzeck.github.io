@@ -4,7 +4,7 @@ modal-id: 4
 order: 8
 date: 2020-09-01
 title: "Master’s Thesis: Adaptable ALS Alarm System"
-img: thesis.png
+img: fnirs.png
 alt: "Deterministic EMG Alarm System for ALS"
 project-date: "2020"
 client: "University of Lübeck / Institute for Signal Processing"
