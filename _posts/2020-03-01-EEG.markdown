@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 12
+order: 5
+date: 2020-03-01
+title: "ERP Research: Single-Lead EEG"
+img: eeg.png
+alt: "Single-lead EEG ERP Protocol and Notebook"
+project-date: "Published 2020"
+client: "TH Lübeck / University of Lübeck"
+category: "Engineering & Data Science"
+description: "Peer-reviewed research published in the <b>Student Conference Proceedings 2020</b> (ISBN: 978-3945954621), focusing on lean hardware optimization for neural research.<br><br>
+  • <b>Protocol Engineering:</b> Designed a specialized setup and data acquisition protocol to record <b>Event-Related Potentials (ERP)</b> using a single-lead <b>biosignalsplux</b> EEG sensor.<br>
+  • <b>Technical Enablement:</b> Created a comprehensive <b>Jupyter Python Notebook</b> to guide users through the full pipeline: from precise sensor positioning to signal filtering and P300 wave detection.<br>
+  • <b>Signal Innovation:</b> Proved the viability of minimal-channel setups for detecting cognitive responses, significantly lowering the barrier for mobile neuro-research."
+---
