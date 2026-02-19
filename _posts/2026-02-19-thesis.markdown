@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2026-02-19
+title: Biomedical Signal Processing
+img: game.png
+alt: image-alt
+project-date: September 2019 - September 2020
+client: Master of Biomedical Engineering Thesis
+category: Engineering R&D
+description: Developed Python/C++ algorithms for real-time biosignal feature extraction (ECG, EMG) for ALS patient communication tools.
+Executed user-centered data acquisition and experimental setups using wearable sensors.
