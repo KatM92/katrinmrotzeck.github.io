@@ -3,13 +3,12 @@ order: 1
 layout: default
 modal-id: 1
 date: 2026-02-18
-title: "Google Data Analytics Capstone - Bellabeat Case Study"
-category: "Data Analysis"
+title: Google Data Analytics Capstone - Bellabeat Case Study
+category: Data Analysis & Product Strategy
 img: bellabeat_dashboard.png
 alt: Bellabeat Health Data Analysis
 project-date: January 2026
 client: Google Data Analytics Case Study
-category: Data Analytics & Product Strategy
 description: "For this case study, I analyzed smart device fitness data to unlock growth opportunities for Bellabeat. Key highlights include:<br><br>
   • <b>The Nighttime Gap:</b> Identified that 73% of users stop logging data after 10 PM, suggesting a need for automated sleep tracking or better battery alerts.<br>
   • <b>Tools Used:</b> Processed over 30,000 rows of data using R (Tidyverse) and created visualizations with ggplot2.<br>
