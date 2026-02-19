@@ -3,6 +3,8 @@ order: 1
 layout: default
 modal-id: 1
 date: 2026-02-18
+title: "Bellabeat Case Study"
+category: "Data Analytics in R"
 img: bellabeat_dashboard.png
 alt: Bellabeat Health Data Analysis
 project-date: January 2026
