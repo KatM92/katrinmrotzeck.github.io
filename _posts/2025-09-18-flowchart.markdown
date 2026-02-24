@@ -8,7 +8,7 @@ img: accelerator.png
 alt: "Low-code Workflow Engineering"
 project-date: "September 2025"
 client: "Incubation Program Case Study"
-category: "Product Operations"
+category: "Product & Strategy"
 description: "Architected a full-lifecycle startup application process by leveraging <b>low-code building blocks</b> within a specialized CRM/Portfolio management platform.<br><br>
   • <b>Process Architecture:</b> Configured a multi-stage funnel utilizing pre-built evaluation and application modules to create a seamless journey from intake to onboarding.<br>
   • <b>Automation Logic:</b> Built customized 'Stage-Gate' triggers, linking automated email notifications to status changes to maintain high engagement with applicants.<br>
