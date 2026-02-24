@@ -14,4 +14,5 @@ description: "I founded and managed a local organic kombucha brewery focused on 
   • <b>Community Building::</b> Built and moderated a WhatsApp community group to facilitate weekly orders and share workshops and tasting events to educate on probiotics and sustainability.<br>
   • <b>Digital Presence::</b> Leveraged Instagram to drive brand awareness and grow the local customer base.<br>
   • <b>Sustainability Focus::</b> Prioritized organic ingredients and glass-bottle reuse cycles to minimize environmental impact.<br>
-   <a href='https://www.instagram.com/kombucharica/' target='_blank' class='btn btn-default'><i class='fa fa-instagram'></i> Follow the Jour
+   <a href='https://www.instagram.com/kombucharica/' target='_blank' class='btn btn-default'><i class='fa fa-instagram'></i> Follow the Journey
+---
