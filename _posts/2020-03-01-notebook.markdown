@@ -8,7 +8,7 @@ img: jupyter.png
 alt: "INTED 2020 Publication - Biosignals Notebooks"
 project-date: "Published 2020"
 client: "INTED Conference / PLUX Wireless Biosignals"
-category: "Developer Experience (DX)"
+category: "Research & Data"
 description: "Co-authored a conference paper at <b>INTED 2020</b> documenting the development of a Python-based educational platform for biosignal processing.<br><br>
   • <b>Educational Innovation:</b> Designed and authored Jupyter Notebook tutorials to bridge the gap between complex physiological hardware and student/researcher data analysis.<br>
   • <b>Signal Processing Expertise:</b> Created specialized guides for <b>EEG analysis</b>, including Fourier Transforms to distinguish Alpha and Beta rhythms, and advanced <b>ECG/EMG</b> feature extraction.<br>
