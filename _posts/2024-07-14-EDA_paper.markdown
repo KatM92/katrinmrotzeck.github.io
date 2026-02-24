@@ -8,7 +8,7 @@ img: eda_signals.png
 alt: Electrodermal Activity Signal Analysis
 project-date: March 2024 - March 2025
 client: Scientific Publication (MDPI Sensors)
-category: Biomedical Data Science
+category: Research & Data
 description: Co-authored a peer-reviewed study in <i>Sensors</i> focusing on physiological signal precision across the human body.<br><br>
   • <b>Research Leadership:</b> Supervised complex signal collection protocols and large-scale data collection phases, ensuring high-fidelity results for subsequent analysis.<br>
   • <b>Algorithm Engineering:</b> Created a complex algorithm to extract meaningful information from raw EDA signals, specifically targeting Skin Conductance Response (SCR) features.<br>
