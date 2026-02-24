@@ -8,7 +8,7 @@ img: fnirs.png
 alt: "fNIRS and Multimodal Biosignal Research Advisory"
 project-date: "2024"
 client: "ICDVRAT 2024 / HEI-Lab / PLUX Biosignals"
-category: "Technical Advisory & Consulting"
+category: "Research & Data"
 description: "Provided technical advisory and co-authorship for a multimodal study published in the <b>ICDVRAT 2024 Proceedings</b>, focusing on anxiety detection via physiological markers.<br><br>
   • <b>Protocol Architecture:</b> Supervised the creation of the research protocols, ensuring a rigorous scientific framework for the data collection of 30 participants.<br>
   • <b>Hardware Integration:</b> Consulted on the optimal combination and positioning of <b>fNIRS, EDA, and ECG</b> sensors to maximize signal quality and minimize artifacts.<br>
