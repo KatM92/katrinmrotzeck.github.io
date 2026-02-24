@@ -4,7 +4,7 @@ layout: default
 modal-id: 1
 date: 2026-02-18
 title: Google Data Analytics Capstone - Bellabeat Case Study
-category: Data Analysis & Product Strategy
+category: Product & Strategy
 img: bellabeat_dashboard.png
 alt: Bellabeat Health Data Analysis
 project-date: January 2026
