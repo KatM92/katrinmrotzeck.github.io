@@ -8,7 +8,7 @@ img: fnirs.png
 alt: "Deterministic EMG Alarm System for ALS"
 project-date: "2020"
 client: "University of Lübeck / Institute for Signal Processing"
-category: "Engineering & Programming"
+category: "Research & Data"
 description: "Master’s Thesis: <b>'Assistive Communication - Adaptable Alarm System for ALS Patients.'</b> Developed a high-reliability emergency trigger system based on intentional physiological signals.<br><br>
   • <b>Algorithm Development:</b> Engineered a <b>deterministic binary algorithm</b> designed to detect specific EMG activation patterns, providing a high-precision 'switch' for patients with limited mobility.<br>
   • <b>Real-Time Processing:</b> Built a signal processing pipeline in <b>C++ and Python</b> to analyze raw muscle activity and distinguish intentional triggers from involuntary tremors or background noise.<br>
