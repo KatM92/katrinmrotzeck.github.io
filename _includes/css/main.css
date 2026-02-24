@@ -482,3 +482,41 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* --- CUSTOM UNIFORM GRID FIX --- */
+
+/* 1. Force all portfolio images to the same height and crop them neatly */
+#portfolio .portfolio-item .portfolio-link img {
+    width: 100%;
+    height: 250px; /* Adjust this to your preferred height */
+    object-fit: cover;
+    display: block;
+}
+
+/* 2. Force the blue hover caption to match the new image height */
+#portfolio .portfolio-item .portfolio-link .caption {
+    height: 250px; /* MUST match the image height above */
+}
+
+/* 3. Make the white text boxes below the images uniform in height */
+.portfolio-caption {
+    height: 120px; /* Adjust if your titles are very long */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #eee;
+    border-top: none;
+    background: white;
+    padding: 15px;
+}
+
+/* 4. Ensure the titles and category text look clean inside the box */
+.portfolio-caption h4 {
+    margin: 0 0 5px 0 !important;
+    font-size: 1.1em;
+}
+
+.portfolio-caption p {
+    margin: 0 !important;
+    font-size: 0.85em !important;
+}
