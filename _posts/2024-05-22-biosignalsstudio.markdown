@@ -15,8 +15,8 @@ description: "I drove the end-to-end product lifecycle for Biosignals Studio Mob
     - Defined the core application workflow and logic, optimizing the user journey for retention.
     - Leveraged customer behavior data and feedback questionnaires to prioritize the MVP roadmap.
     - Guided an Agile team through Alpha and Beta testing cycles, iteratively refining features based on user testing.
-    - Orchestrated the final release, collaborating closely with design and engineering to ensure technical scalability.
+    - Orchestrated the final release, collaborating closely with design and engineering to ensure technical scalability."
 
   link: "https://play.google.com/store/apps/details?id=com.pluxbiosignals.studio&pli=1"
-  project-url: "https://www.pluxbiosignals.com/pages/biosignals-studio" "
+  project-url: "https://www.pluxbiosignals.com/pages/biosignals-studio" 
 ---
