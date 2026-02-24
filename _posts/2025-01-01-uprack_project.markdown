@@ -3,7 +3,7 @@ order: 3
 layout: default
 modal-id: 9
 date: 2025-01-01
-title: Uprack Project
+title: Uprack - Functional Upcycling & Circular Design
 category: Sustainability
 img: logo_uprack.png
 alt: uprack_project
