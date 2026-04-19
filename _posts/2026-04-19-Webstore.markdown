@@ -38,7 +38,6 @@ The project features a built-in "decay" system. If 10 days pass without a "Fuel"
 <b> 🚀 Presentation for Founders</b>
 This prototype demonstrates a "Living Brand" concept. We have moved beyond simple loyalty cards to create a reason for the customer to open the app every day. It turns the product from a one-time purchase into an ongoing digital companionship.
 
----
 Developed during an intensive 30-day "Vibe Coding" Caparica Founders Breakfast Unicorn Challenge.
 
 <a href='https://www.instagram.com/kombucharica/' target='_blank' class='btn btn-default'><i class='website'></i> Live Prototype</a>"
