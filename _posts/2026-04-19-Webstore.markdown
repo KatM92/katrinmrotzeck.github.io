@@ -11,7 +11,7 @@ project-date: March - April 2026
 client: Founder & Creator
 description: 
 # 🧉 Kombucharica: The Scoby-gotchi PWA
-**Live Prototype:** [https://coastal-brew-drop.lovable.app/](https://coastal-brew-drop.lovable.app/)
+**Live Prototype:** https://coastal-brew-drop.lovable.app/
 
 ## 🌊 Overview
 **Kombucharica** is a "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.
