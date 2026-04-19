@@ -10,40 +10,38 @@ alt: kombucharica
 project-date: March - April 2026
 client: Founder & Creator
 description: 
-# 🧉 Kombucharica: The Scoby-gotchi PWA
-**Live Prototype:** https://coastal-brew-drop.lovable.app/
+"Kombucharica: The Scoby-gotchi PWA <br><br>
+<b>🌊 Overview</b> Kombucharica is a "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.
+<b> ✨ Features</b> 
+<b> Interactive Scoby-gotchi:</b>  A minimalist digital pet that reacts to user interactions (taps and double-taps) and changes its state based on your "Fuel" levels.
+<b>The "Fuel" Inventory:</b>  A gamified tracking system for Tea, Sugar, and Fruit fuel.
+<b>Automated Retention Loop:</b>  Integrated with Zapier via Webhooks to trigger a "Hungry Scoby" nudge 10 days after a purchase.
+<b>PWA Ready:</b>  Fully optimized for mobile—can be installed as a standalone app on iOS and Android.
+<b>Artisan Aesthetic:</b>  A "vibe-coded" interface using a premium cream palette (`#FFF1DB`) and a clean, minimalist typography stack.
 
-## 🌊 Overview
-**Kombucharica** is a "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.
+<b> ⚙️ The Tech Stack</b>
+<b> Frontend:</b> React, Tailwind CSS, Lucide Icons, Framer Motion (for animations).
+<b> Backend/Logic:</b> Webhooks & Zapier for automated customer lifecycle management.
+<b> Persistence:</b> LocalStorage for zero-latency state management (offline-first).
+<b> Hosting:</b> Lovable.
 
-## ✨ Features
-* **Interactive Scoby-gotchi:** A minimalist digital pet that reacts to user interactions (taps and double-taps) and changes its state based on your "Fuel" levels.
-* **The "Fuel" Inventory:** A gamified tracking system for Tea, Sugar, and Fruit fuel.
-* **Automated Retention Loop:** Integrated with Zapier via Webhooks to trigger a "Hungry Scoby" nudge 10 days after a purchase.
-* **PWA Ready:** Fully optimized for mobile—can be installed as a standalone app on iOS and Android.
-* **Artisan Aesthetic:** A "vibe-coded" interface using a premium cream palette (`#FFF1DB`) and a clean, minimalist typography stack.
-
-## ⚙️ The Tech Stack
-* **Frontend:** React, Tailwind CSS, Lucide Icons, Framer Motion (for animations).
-* **Backend/Logic:** Webhooks & Zapier for automated customer lifecycle management.
-* **Persistence:** LocalStorage for zero-latency state management (offline-first).
-* **Hosting:** Lovable.
-
-## 🧠 Business Logic
-### 1. The Fuel Equation
+<b> 🧠 Business Logic</b>
+<b> 1. The Fuel Equation</b>
 The app translates product orders into digital rewards:
-* **Standard Bottle** = 1 Sugar Fuel + 1 Tea Fuel.
-* **Flavored Bottle** = +1 Fruit Fuel.
+<b> Standard Bottle</b> = 1 Sugar Fuel + 1 Tea Fuel.
+<b> Flavored Bottle</b> = +1 Fruit Fuel.
 
-### 2. The 10-Day Retention Nudge
-The project features a built-in "decay" system. If **10 days** pass without a "Fuel" update (tracked via `last_purchase_date` in the browser):
-* The Scoby enters a sluggish **"Hungry"** state.
-* This triggers a webhook to Zapier, which sends a personalized email nudge to the customer to re-engage with the brand and "refuel" their Scoby.
+<b> 2. The 10-Day Retention Nudge</b>
+The project features a built-in "decay" system. If 10 days pass without a "Fuel" update (tracked via `last_purchase_date` in the browser):
+<b> The Scoby enters a sluggish "Hungry" state.</b>
+<b> This triggers a webhook to Zapier, which sends a personalized email nudge to the customer to re-engage with the brand and "refuel" their Scoby.</b>
 
-## 🚀 Presentation for Founders
-This prototype demonstrates a **"Living Brand"** concept. We have moved beyond simple loyalty cards to create a reason for the customer to open the app every day. It turns the product from a one-time purchase into an ongoing digital companionship.
+<b> 🚀 Presentation for Founders</b>
+This prototype demonstrates a "Living Brand" concept. We have moved beyond simple loyalty cards to create a reason for the customer to open the app every day. It turns the product from a one-time purchase into an ongoing digital companionship.
 
 ---
-*Developed during an intensive 30-day "Vibe Coding" Caparica Founders Breakfast Unicorn Challenge.*
+Developed during an intensive 30-day "Vibe Coding" Caparica Founders Breakfast Unicorn Challenge.
+
+<a href='https://www.instagram.com/kombucharica/' target='_blank' class='btn btn-default'><i class='website'></i> Live Prototype</a>"
 ---
 
