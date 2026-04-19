@@ -1,1 +1,49 @@
+---
+order: 1
+layout: default
+modal-id: 9
+date: 2026-04-19
+title: 30-day "Vibe Coding" Caparica Founders Breakfast Unicorn Challenge: Webstore and Gamified Rewarding System.
+category: Sustainability
+img: webstore.png
+alt: kombucharica
+project-date: March - April 2026
+client: Founder & Creator
+description: 
+# 🧉 Kombucharica: The Scoby-gotchi PWA
+**Live Prototype:** [https://coastal-brew-drop.lovable.app/](https://coastal-brew-drop.lovable.app/)
+
+## 🌊 Overview
+**Kombucharica** is a "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.
+
+## ✨ Features
+* **Interactive Scoby-gotchi:** A minimalist digital pet that reacts to user interactions (taps and double-taps) and changes its state based on your "Fuel" levels.
+* **The "Fuel" Inventory:** A gamified tracking system for Tea, Sugar, and Fruit fuel.
+* **Automated Retention Loop:** Integrated with Zapier via Webhooks to trigger a "Hungry Scoby" nudge 10 days after a purchase.
+* **PWA Ready:** Fully optimized for mobile—can be installed as a standalone app on iOS and Android.
+* **Artisan Aesthetic:** A "vibe-coded" interface using a premium cream palette (`#FFF1DB`) and a clean, minimalist typography stack.
+
+## ⚙️ The Tech Stack
+* **Frontend:** React, Tailwind CSS, Lucide Icons, Framer Motion (for animations).
+* **Backend/Logic:** Webhooks & Zapier for automated customer lifecycle management.
+* **Persistence:** LocalStorage for zero-latency state management (offline-first).
+* **Hosting:** Lovable.
+
+## 🧠 Business Logic
+### 1. The Fuel Equation
+The app translates product orders into digital rewards:
+* **Standard Bottle** = 1 Sugar Fuel + 1 Tea Fuel.
+* **Flavored Bottle** = +1 Fruit Fuel.
+
+### 2. The 10-Day Retention Nudge
+The project features a built-in "decay" system. If **10 days** pass without a "Fuel" update (tracked via `last_purchase_date` in the browser):
+* The Scoby enters a sluggish **"Hungry"** state.
+* This triggers a webhook to Zapier, which sends a personalized email nudge to the customer to re-engage with the brand and "refuel" their Scoby.
+
+## 🚀 Presentation for Founders
+This prototype demonstrates a **"Living Brand"** concept. We have moved beyond simple loyalty cards to create a reason for the customer to open the app every day. It turns the product from a one-time purchase into an ongoing digital companionship.
+
+---
+*Developed during an intensive 30-day "Vibe Coding" Caparica Founders Breakfast Unicorn Challenge.*
+---
 
