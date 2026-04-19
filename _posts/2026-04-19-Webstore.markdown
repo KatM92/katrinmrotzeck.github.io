@@ -9,8 +9,7 @@ img: webstore.png
 alt: kombucharica
 project-date: March - April 2026
 client: Founder & Creator
-description: 
-"Kombucharica: The Scoby-gotchi PWA <br><br>
+description: "Kombucharica: The Scoby-gotchi PWA <br><br>
 <b>🌊 Overview</b> Kombucharica is a "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.
 <b> ✨ Features</b> 
 <b> Interactive Scoby-gotchi:</b>  A minimalist digital pet that reacts to user interactions (taps and double-taps) and changes its state based on your "Fuel" levels.
