@@ -1,7 +1,7 @@
 ---
-order: 1
+order: 2
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2026-02-18
 title: Google Data Analytics Capstone - Bellabeat Case Study
 category: Product & Strategy
