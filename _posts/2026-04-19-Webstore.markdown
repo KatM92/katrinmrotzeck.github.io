@@ -1,7 +1,7 @@
 ---
-order: 3
+order: 1
 layout: default
-modal-id: 9
+modal-id: 1
 date: 2026-04-19
 title: 30-day Vibe Coding Challenge - Webstore and Gamified Rewarding System.
 category: Product & Strategy
