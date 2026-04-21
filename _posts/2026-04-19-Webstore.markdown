@@ -10,8 +10,8 @@ alt: kombucharica
 project-date: March - April 2026
 client: Founder & Creator
 description: |
-  <b>🧉 Kombucharica: The Scoby-gotchi PWA</b><br><br>
-  <b>🌊 Overview</b> Kombucharica is a "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.<br><br>
+  <b>🧉 Kombucharica Webstore & Scoby-gotchi PWA</b><br><br>
+  <b>🌊 Overview</b> A Kombucha Webstore and "Scoby-gotchi" Progressive Web App (PWA) designed to bridge the gap between physical product consumption and digital brand loyalty. Built for the Caparica surf-brewery scene, it transforms the traditional beverage purchase into a digital ecosystem where your "Scoby" companion thrives based on real-world brewing habits.<br><br>
   <b>✨ Features</b><br>
   <b>Interactive Scoby-gotchi:</b> A minimalist digital pet that reacts to user interactions (taps and double-taps) and changes its state based on your "Fuel" levels.<br>
   <b>The "Fuel" Inventory:</b> A gamified tracking system for Tea, Sugar, and Fruit fuel.<br>
@@ -35,5 +35,5 @@ description: |
   <b>🚀 Presentation for Founders</b><br>
   This prototype demonstrates a "Living Brand" concept. We have moved beyond simple loyalty cards to create a reason for the customer to open the app every day. It turns the product from a one-time purchase into an ongoing digital companionship.<br><br>
   Developed during an intensive 30-day "Vibe Coding" Caparica Founders Breakfast Unicorn Challenge.<br><br>
-  <a href='https://www.instagram.com/kombucharica/' target='_blank' class='btn btn-default'><i class='website'></i> Live Prototype</a>
+  <a href='https://coastal-brew-drop.lovable.app/' target='_blank' class='btn btn-default'><i class='website'></i> Live Prototype</a>
 ---
