@@ -1,7 +1,7 @@
 ---
-order: 3
+order: 11
 layout: default
-modal-id: 9
+modal-id: 11
 date: 2025-01-01
 title: Uprack - Functional Upcycling & Circular Design
 category: Sustainability
