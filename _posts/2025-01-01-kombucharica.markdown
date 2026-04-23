@@ -1,7 +1,7 @@
 ---
-order: 3
+order: 12
 layout: default
-modal-id: 9
+modal-id: 12
 date: 2025-01-01
 title: Organic Kombucha Brewery & Community
 category: Sustainability
