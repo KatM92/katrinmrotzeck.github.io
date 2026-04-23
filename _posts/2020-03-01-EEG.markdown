@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 12
-order: 5
+modal-id: 9
+order: 9
 date: 2020-03-01
 title: "ERP Research: Single-Lead EEG"
 img: fnirs.png
