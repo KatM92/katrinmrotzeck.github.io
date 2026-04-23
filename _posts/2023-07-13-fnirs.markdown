@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 11
-order: 1
+modal-id: 6
+order: 6
 date: 2026-02-11
 title: "Technical Advisory: fNIRS Anxiety Study"
 img: fnirs.png
