@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 13
-order: 7
+modal-id: 4
+order: 4
 date: 2025-09-18
 title: "Ops: Program Workflow Design"
 img: accelerator.png
