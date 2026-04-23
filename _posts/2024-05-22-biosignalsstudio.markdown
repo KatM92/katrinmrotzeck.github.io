@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 12
-order: 10
+modal-id: 5
+order: 5
 date: 2024-05-22
 title: Biosignals Studio App - Product Manager
 img: biosignalsstudio.png
