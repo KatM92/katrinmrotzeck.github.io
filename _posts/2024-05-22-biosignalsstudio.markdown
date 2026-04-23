@@ -17,5 +17,5 @@ description: I drove the end-to-end product lifecycle for Biosignals Studio Mobi
     - Orchestrated the final release, collaborating closely with design and engineering to ensure technical scalability.<br>
 
     <a href='https://play.google.com/store/apps/details?id=com.pluxbiosignals.studio&pli=1' target='_blank' class='btn btn-default'>View App in Google Play Store</a>
-    <a href='https://play.google.com/store/apps/details?id=com.pluxbiosignals.studio&pli=1' target='_blank' class='btn btn-default'>View Company Page</a>
+    <a href='https://www.pluxbiosignals.com/pages/biosignals-studio' target='_blank' class='btn btn-default'>View Company Page</a>
 ---
